@@ -3,6 +3,7 @@
 The criteria to select investment is combination of three: 
 High revenue,Low expense ,Top growth
 To identify which business represent the best investment, this dashboard will assist you.
+https://public.tableau.com/shared/S35F3PPR7?:display_count=yes
 
 The upper right quadrant are the business that you definitely need to spend your time.
 
