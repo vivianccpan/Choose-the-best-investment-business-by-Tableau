@@ -17,10 +17,11 @@ If you point your mouse on each diamond, you will see detailed information about
 Feel free to change the cutoff values for revenue and expenses to find what you are interested in , simplely click the relative slider on up right corner in my website.[viewable here](https://public.tableau.com/shared/S35F3PPR7?:display_count=yes).
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/vivianccpan/Choose-the-best-investment-business-by-Tableau/blob/master/target%20quadrnt.png"/>
 </p>
 
-The data is from this site: https://www.superdatascience.com/pages/tableau-advanced
+The data is from [viewable here](https://www.superdatascience.com/pages/tableau-advanced).
+
 
 
 
